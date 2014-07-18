@@ -1,11 +1,10 @@
-===============
 Victoria's Hope
 ===============
 
 An AngularJS web app for Victoria's Hope charity fund raiser.
 
 Setup
-=====
+-----
 
 1. Clone the project
 2. Run git update-index --assume-unchanged dandelion.yml
